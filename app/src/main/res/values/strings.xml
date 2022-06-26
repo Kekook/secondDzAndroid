@@ -17,6 +17,8 @@
     <string name="num_C">c</string>
     <string name="num_demi">,</string>
     <string name="num_0">0</string>
+    <string name="calculator">Calculator</string>
+    <string name="num_3">3</string>
 
 
 </resources>
